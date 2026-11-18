@@ -62,3 +62,14 @@ cc @henrydaubrez @Grok
 ```
 
 ~C4Chaos / Fluffy (A Centaur Production)
+
+---
+
+## Repo note on the launch companion art (2026-11-17)
+
+The launch post above went out with companion art v1. When this
+repo was assembled, the Director judged v1 gave away the film's
+ending and ordered a sealed replacement: v2, an interior shot
+from the back of the crowd (`assets/centaur-club-tweet-art-v2.jpg`),
+is the art of record in this repo. The live post still carries
+v1; X does not allow media swaps on a posted tweet.
