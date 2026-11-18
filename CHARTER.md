@@ -1,7 +1,7 @@
 # CENTAUR CLUB AT THE EDGE OF ETERNITY (CCEE) — PROJECT CHARTER
 
 Established 2026-11-14 by Director's order: the Club is its own
-project at the level of Yellow Rav3n. Short name: **Centaur Club**.
+project at the level of [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n). Short name: **Centaur Club**.
 Acronym: **CCEE** (CC alone collides with Creative Commons, which
 sits on our own paper PDFs — CCEE is the unambiguous tag).
 Workspace: the project workspace (canon of record). The founding

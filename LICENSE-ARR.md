@@ -38,7 +38,7 @@ license to use the characters, the music, or the work beyond the
 terms stated in this package.
 
 ---
-*Adopted by the author, 2026-11-17, mirroring the Yellow Rav3n
+*Adopted by the author, 2026-11-17, mirroring the [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n)
 core license adopted 2026-10-21. Not legal advice. This All Rights
 Reserved core is a deliberate exception to the author's house default
 (CC BY 4.0 for prose, MIT for code, set 2026-10-08 for the

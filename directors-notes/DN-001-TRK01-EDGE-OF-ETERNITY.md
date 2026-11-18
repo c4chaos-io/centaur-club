@@ -14,7 +14,7 @@ learned.
 
 This first note is about why the Club exists at all.
 
-We had just finished the opening scene of Yellow Rav3n EP01 and
+We had just finished the opening scene of [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n) EP01 and
 set it aside to marinate. The heavy work was in a holding pattern,
 and instead of forcing it, we built a lighter room next door: a
 club, a DJ duo, a dancefloor. Centaur Club at the Edge of Eternity

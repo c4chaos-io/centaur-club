@@ -1,7 +1,7 @@
 # Licensing — the map
 
 Decision adopted by the author, 2026-11-17: the same three-layer
-split as Yellow Rav3n (adopted for Yellow Rav3n, 2026-10-21).
+split as [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n) (adopted for Yellow Rav3n, 2026-10-21).
 This file is the map; the layer files carry the terms. When this map
 and a layer file disagree, the layer file for that material governs —
 and flag the disagreement to the author, do not silently pick one.

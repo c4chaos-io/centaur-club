@@ -1,5 +1,5 @@
 # // SUNO PACKAGE v1 — CLUB AT THE EDGE OF ETERNITY
-## Centaur Production · Personal lane (NOT Yellow Rav3n, NOT Rebirth)
+## Centaur Production · Personal lane (NOT [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n), NOT Rebirth)
 ## Status: REFERENCE-CHECKED (two reads converged) — ready for Director run order
 ## Supersedes v0 draft (built blind, before the reference read landed)
 

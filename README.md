@@ -8,7 +8,7 @@ The musical outlet of A Centaur Production.
 eternity. Where the club actually is stays sealed: it is the
 ending of the first film, and it is described in no file here.
 Watch to the end. Music, films, and the full production paper
-trail: Director's Notes and Production Notes, Yellow Rav3n style.
+trail: Director's Notes and Production Notes, [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n) style.
 
 ## Tracks
 

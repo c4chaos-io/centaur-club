@@ -45,5 +45,5 @@ remains that masters, references, and process material are never
 published here.
 
 ---
-*Adopted by the author, 2026-11-17, mirroring the Yellow Rav3n
+*Adopted by the author, 2026-11-17, mirroring the [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n)
 notice adopted 2026-10-21.*

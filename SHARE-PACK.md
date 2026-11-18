@@ -44,5 +44,5 @@ file designates them by name.
   likenesses, ever.
 
 ---
-*Adopted by the author, 2026-11-17, mirroring the Yellow Rav3n
+*Adopted by the author, 2026-11-17, mirroring the [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n)
 Share Pack adopted 2026-10-21.*

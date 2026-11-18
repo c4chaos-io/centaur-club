@@ -60,7 +60,7 @@ Album cover v9 locked.
 Storyboard board v4 locked: 21 tiles, film panels only. Film
 launched on X (link above), reveal kept sealed in the launch
 copy. Repo structure locked for the whole production: this repo
-is its own home, Yellow Rav3n style, paper trail included.
+is its own home, [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n) style, paper trail included.
 
 **2026-11-17 — receipts and this repo.**
 Outtakes post published with the cost receipts and a clip cut

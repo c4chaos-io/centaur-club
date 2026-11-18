@@ -31,4 +31,4 @@ SOFTWARE.
 
 ---
 *Standard MIT text, unmodified. Adopted 2026-11-17 under the
-author's licensing split mirroring Yellow Rav3n (see LICENSE.md).*
+author's licensing split mirroring [Yellow Rav3n](https://github.com/c4chaos-io/yellow-rav3n) (see LICENSE.md).*
