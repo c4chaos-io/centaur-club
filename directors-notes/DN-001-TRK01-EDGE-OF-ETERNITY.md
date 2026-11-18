@@ -61,3 +61,7 @@ Watch to the end.
 *Next entry follows the work, not a schedule.*
 
 ~C4Chaos / Fluffy (A Centaur Production)
+
+---
+
+← [Director's Notes index](README.md) · [Production Notes](../production-notes/README.md) · [Posts](../posts/README.md) · [Repo home](../README.md)

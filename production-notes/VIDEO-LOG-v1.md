@@ -81,3 +81,7 @@ choice, NOT auto-run:
     character failure.
 (c) Edit-lane safety cut: camera moves over the locked still
     (faces exact, far less life) as a B-version.
+
+---
+
+← [Production Notes index](README.md) · [Director's Notes](../directors-notes/README.md) · [Posts](../posts/README.md) · [Repo home](../README.md)

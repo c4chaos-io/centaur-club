@@ -129,3 +129,7 @@ every take is an edit problem, not a prompt problem.
   laid out.
 
 ~C4Chaos / Fluffy (A Centaur Production)
+
+---
+
+← [Production Notes index](README.md) · [Director's Notes](../directors-notes/README.md) · [Posts](../posts/README.md) · [Repo home](../README.md)

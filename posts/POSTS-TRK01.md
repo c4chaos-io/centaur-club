@@ -73,3 +73,7 @@ ending and ordered a sealed replacement: v2, an interior shot
 from the back of the crowd (`assets/centaur-club-tweet-art-v2.jpg`),
 is the art of record in this repo. The live post still carries
 v1; X does not allow media swaps on a posted tweet.
+
+---
+
+← [Posts index](README.md) · [Director's Notes](../directors-notes/README.md) · [Production Notes](../production-notes/README.md) · [Repo home](../README.md)

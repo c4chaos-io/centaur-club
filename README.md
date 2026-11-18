@@ -30,14 +30,24 @@ and [DN-001](directors-notes/DN-001-TRK01-EDGE-OF-ETERNITY.md).
 
 ![Album cover v10 — the duo at the decks](assets/centaur-club-album-cover-v10.jpg)
 
+## Posts
+
+- 2026-11-16 — **Launch:** "CENTAUR CLUB: EDGE OF ETERNITY."
+  The film launch on X:
+  https://x.com/c4chaos/status/2122352026877300958
+- 2026-11-17 — **Follow-up:** "FLUFFY IN THE MIX: THE OUTTAKES."
+  The outtake that outgrew its slot, plus the receipts.
+
+Full texts in the [Posts index](posts/README.md).
+
 ## Paper trail
 
 - [Charter](CHARTER.md) — what this project is
-- Director's Notes: [DN-001 — TRK01: Edge of Eternity](directors-notes/DN-001-TRK01-EDGE-OF-ETERNITY.md)
-- Production Notes: [Production Log TRK01](production-notes/PRODUCTION-LOG-TRK01.md) · [Video Log v1](production-notes/VIDEO-LOG-v1.md)
+- Director's Notes: [DN-001 — TRK01: Edge of Eternity](directors-notes/DN-001-TRK01-EDGE-OF-ETERNITY.md) · [index](directors-notes/README.md)
+- Production Notes: [Production Log TRK01](production-notes/PRODUCTION-LOG-TRK01.md) · [Video Log v1](production-notes/VIDEO-LOG-v1.md) · [index](production-notes/README.md)
 - Music: [TRK01 index](music/TRK01-EDGE-OF-ETERNITY.md) · [Suno package](music/SUNO-PACKAGE-v1.md) · [Track check](music/TRACK-CHECK-v1.md)
 - Films: [Storyboard TRK01](films/STORYBOARD-TRK01.md) · [Stills and Hero Log](films/STILLS-AND-HERO-LOG.md)
-- Posts: [Posts TRK01](posts/POSTS-TRK01.md) (final texts as posted)
+- Posts: [Posts TRK01](posts/POSTS-TRK01.md) (final texts as posted) · [index](posts/README.md)
 - Licenses: [LICENSE.md](LICENSE.md) — the three-layer split, in plain language
 
 ## Canon in brief
