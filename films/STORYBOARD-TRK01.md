@@ -1840,6 +1840,14 @@ the-world-and-its-double.ogg) for any re-cut.
   settled at "a tad": v9 = the v4 composition with Fluffy ~10%
   smaller. The way-tall pass (v7) and the too-small pass (v8)
   are on file as rejects.
+- ADDENDUM (2026-11-17, Director): cover v10 LOCKED as the
+  cover of record, superseding v9. When the repo package was
+  assembled, the Director judged v9 gave away the film's
+  ending and ordered a sealed replacement: v10 is an interior
+  stage shot (the duo vibing at the decks; base
+  `album-art/base-v10.jpg`, same typography treatment). The
+  Suno listing still shows v9 until the Director swaps it
+  there; this repo ships v10.
 
 ## TRACK PUBLISHED ON SUNO (2026-11-15, Director)
 - "Edge of Eternity" is LIVE on Suno:

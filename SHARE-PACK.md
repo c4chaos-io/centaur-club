@@ -18,7 +18,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
   this list as they are added by designation. No artwork is in the
   pack until it is named here.
   - *(none designated yet — designations land by name, one at a time.
-    In particular, the TRK01 album cover v9 is NOT in the pack.)*
+    In particular, the TRK01 album cover (v10) is NOT in the pack.)*
 
 ## Not in the pack (reminders, not exceptions)
 

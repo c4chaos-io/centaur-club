@@ -20,7 +20,7 @@ trail: Director's Notes and Production Notes, Yellow Rav3n style.
   "Nature loves courage" / "We are being sucked into the
   body of eternity."
 
-[PLACEHOLDER: album cover assets/centaur-club-album-cover-v9.jpg
+[PLACEHOLDER: album cover assets/centaur-club-album-cover-v10.jpg
 pending manual upload by the Director]
 
 ## Paper trail

@@ -7,7 +7,8 @@
 
 - **Track:** "Edge of Eternity" by ~C4Chaos / Fluffy, composed on Suno.
   Published 2026-11-15: https://suno.com/s/w4YErkpbGB1Bzef8
-  Runtime 3:03.6. Album cover of record: v9 (see the TRK01 index in `music/`).
+  Runtime 3:03.6. Album cover of record: v10 (locked 2026-11-17,
+  supersedes v9; see the TRK01 index in `music/`).
 - **Film:** 3:12, 1080p. Directed and edited by ~C4Chaos in CapCut.
   Visuals by Fluffy (Muse, by Meta). Launched on X 2026-11-16,
   7:32 AM PST: https://x.com/c4chaos/status/2122352026877300958

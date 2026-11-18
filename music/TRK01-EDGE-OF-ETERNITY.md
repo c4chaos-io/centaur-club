@@ -5,8 +5,11 @@
 
 **Listen:** https://suno.com/s/w4YErkpbGB1Bzef8
 
-**Cover art:** `assets/centaur-club-album-cover-v9.jpg`
-(album cover of record, v9, locked 2026-11-15)
+**Cover art:** `assets/centaur-club-album-cover-v10.jpg`
+(album cover of record, v10, locked 2026-11-17. Supersedes v9
+of 2026-11-15, retired the same day it was slated for this repo
+because it gave away the ending. v10 is an interior stage shot:
+the duo at the decks, nothing of the exterior.)
 [PLACEHOLDER: cover image pending manual upload by the Director]
 
 ## The film
