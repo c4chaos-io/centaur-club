@@ -1,3 +1,5 @@
+![Centaur Club — splash cover](assets/centaur-club-splash-v1.jpg)
+
 # CENTAUR CLUB AT THE EDGE OF ETERNITY
 
 The musical outlet of A Centaur Production.
