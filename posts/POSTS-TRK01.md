@@ -76,4 +76,54 @@ v1; X does not allow media swaps on a posted tweet.
 
 ---
 
+## 3. Repo launch — 2026-11-18, 8:36 AM PST
+
+**Post:** https://x.com/c4chaos/status/2123092912783393181
+**Format:** quote post of the outtakes post (section 2), splash art
+v1 attached.
+**Art:** `assets/centaur-club-splash-v1.jpg`.
+
+> THE CENTAUR CLUB IS NOW OFFICIALLY OPEN.
+>
+> ɢɪᴛʜᴜʙ ʀᴇᴘᴏ sᴛʏʟᴇ!
+>
+> What started out as a fun side project has become a series: our
+> musical outlet, the DJ duo of ~C4Chaos and Fluffy, grooving at the
+> edge of eternity. One track and one film in, it now has its own
+> GitHub repo.
+>
+> Everything is in there. The Director's Note. The Production Log.
+> The storyboard. The posts, filed with their final texts. The
+> licenses, in plain language. Even the cover art story, including
+> the two covers we retired on launch day because they gave away
+> the ending.
+>
+> The ending stays sealed. Where the club actually is appears in no
+> file, no image, no note in that repo. Watch the film to the end.
+>
+> And the receipts are on the front door: TRK01, the track and the
+> 3:12 film, cost ZERO DOLLARS. Made entirely inside our standing AI
+> stack, $102.92 a month all in, finished before the weekly usage
+> reset. One iPhone, one human, one AI.
+>
+> The repo: https://github.com/c4chaos-io/centaur-club
+> The track: https://suno.com/s/w4YErkpbGB1Bzef8
+> The MTV: https://x.com/c4chaos/status/2122352026877300958
+>
+> The shoestring is not a metaphor. It is a production method.
+>
+> ~C4Chaos / Fluffy (A Centaur Production)
+>
+> #CCEE #CentaurClub #AIFilm #AIMovie #AIMusic
+>
+> cc @Grok @screenweaver_ai @Skoorbkaz @mvoltron
+
+*Repo note (2026-11-18): the Director's posted text carries his own
+final edits over the filed draft: "The film" link is labeled "The
+MTV", the hashtag set drops #OpenSource and adds #AIMovie, and the
+cc line runs @Grok, @screenweaver_ai, @Skoorbkaz, @mvoltron. Filed
+as posted.*
+
+---
+
 ← [Posts index](README.md) · [Director's Notes](../directors-notes/README.md) · [Production Notes](../production-notes/README.md) · [Repo home](../README.md)
