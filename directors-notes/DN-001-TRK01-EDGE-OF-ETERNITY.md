@@ -31,7 +31,7 @@ fun. The method is why the room works.
 
 TRK01 taught the lesson this repository exists to share. The film
 is 3 minutes 12 seconds, shipped at 1080p, and its marginal cost
-was zero dollars. Not cheap: zero. The whole generation campaign
+was **ZERO DOLLARS**. Not cheap: zero. The whole generation campaign
 ran inside our standing stack (102.92 dollars a month, all in, for
 all of our AI use) and finished before the weekly usage reset, so
 no additional spending happened at all. At the rates another AI

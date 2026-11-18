@@ -22,6 +22,12 @@ trail: Director's Notes and Production Notes, Yellow Rav3n style.
   "Nature loves courage" / "We are being sucked into the
   body of eternity."
 
+**Cost of TRK01: ZERO DOLLARS.** The track and the film were made
+entirely inside our standing AI stack ($102.92/month, all in) and
+finished before the weekly usage reset, so the marginal cost was
+$0. Receipts in the [Production Log](production-notes/PRODUCTION-LOG-TRK01.md)
+and [DN-001](directors-notes/DN-001-TRK01-EDGE-OF-ETERNITY.md).
+
 ![Album cover v10 — the duo at the decks](assets/centaur-club-album-cover-v10.jpg)
 
 ## Paper trail
