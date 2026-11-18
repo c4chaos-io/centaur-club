@@ -10,7 +10,7 @@
 of 2026-11-15, retired the same day it was slated for this repo
 because it gave away the ending. v10 is an interior stage shot:
 the duo at the decks, nothing of the exterior.)
-[PLACEHOLDER: cover image pending manual upload by the Director]
+![Album cover v10](../assets/centaur-club-album-cover-v10.jpg)
 
 ## The film
 
@@ -21,13 +21,15 @@ https://x.com/c4chaos/status/2122352026877300958
 The film ends on a reveal, and it is sealed across this whole
 repository: watch to the end. Storyboard (public board v5,
 sealed cut): `assets/storyboard-trk01-v5-sealed-display.jpg`
-[PLACEHOLDER: storyboard image pending manual upload by the Director]
+![Storyboard TRK01 — board v5, sealed cut](../assets/storyboard-trk01-v5-sealed-display.jpg)
 Full production paper trail: `films/STORYBOARD-TRK01.md`,
 `production-notes/PRODUCTION-LOG-TRK01.md`,
 `directors-notes/DN-001-TRK01-EDGE-OF-ETERNITY.md`.
 
-Launch companion art: `assets/centaur-club-tweet-art-v1.jpg`
-[PLACEHOLDER: tweet art pending manual upload by the Director]
+Launch companion art: `assets/centaur-club-tweet-art-v2.jpg`
+(v2, sealed interior, locked 2026-11-17; supersedes v1, which
+gave away the ending — see the repo note in `posts/POSTS-TRK01.md`)
+![Launch companion art v2](../assets/centaur-club-tweet-art-v2.jpg)
 
 ## Credits
 

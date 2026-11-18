@@ -1,3 +1,5 @@
+![Centaur Club — splash cover](assets/centaur-club-splash-v1.jpg)
+
 # CENTAUR CLUB AT THE EDGE OF ETERNITY
 
 The musical outlet of A Centaur Production.
@@ -14,21 +16,23 @@ trail: Director's Notes and Production Notes, Yellow Rav3n style.
   https://suno.com/s/w4YErkpbGB1Bzef8
   Film (3:12) launched on X 2026-11-16:
   https://x.com/c4chaos/status/2122352026877300958
-  Index, credits, and cover: `music/TRK01-EDGE-OF-ETERNITY.md`.
+  Index, credits, and cover: [TRK01 index](music/TRK01-EDGE-OF-ETERNITY.md).
   Inspired by handhat via @snowlion1949.
   Terence McKenna excerpts ride in the film, not the track:
   "Nature loves courage" / "We are being sucked into the
   body of eternity."
 
-[PLACEHOLDER: album cover assets/centaur-club-album-cover-v10.jpg
-pending manual upload by the Director]
+![Album cover v10 — the duo at the decks](assets/centaur-club-album-cover-v10.jpg)
 
 ## Paper trail
 
-- `directors-notes/` — Director's Notes
-- `production-notes/` — Production Notes
-- `music/` — track packages and checks
-- `films/` — stills, storyboards, video logs
+- [Charter](CHARTER.md) — what this project is
+- Director's Notes: [DN-001 — TRK01: Edge of Eternity](directors-notes/DN-001-TRK01-EDGE-OF-ETERNITY.md)
+- Production Notes: [Production Log TRK01](production-notes/PRODUCTION-LOG-TRK01.md) · [Video Log v1](production-notes/VIDEO-LOG-v1.md)
+- Music: [TRK01 index](music/TRK01-EDGE-OF-ETERNITY.md) · [Suno package](music/SUNO-PACKAGE-v1.md) · [Track check](music/TRACK-CHECK-v1.md)
+- Films: [Storyboard TRK01](films/STORYBOARD-TRK01.md) · [Stills and Hero Log](films/STILLS-AND-HERO-LOG.md)
+- Posts: [Posts TRK01](posts/POSTS-TRK01.md) (final texts as posted)
+- Licenses: [LICENSE.md](LICENSE.md) — the three-layer split, in plain language
 
 ## Canon in brief
 
@@ -43,7 +47,7 @@ pending manual upload by the Director]
   never to camera.
 
 The sealed public cut of the canon lives here
-(`CLUB-CANON-v1.md`). The full canon of record stays in the
+([CLUB-CANON-v1.md](CLUB-CANON-v1.md)). The full canon of record stays in the
 project workspace and is not published.
 
 A Centaur Production.
