@@ -126,4 +126,19 @@ as posted.*
 
 ---
 
+## 4. Singularity booster — 2026-11-21, 7:18 AM PST
+
+**Post:** https://x.com/c4chaos/status/2124160515064885322
+**Format:** quote post of the launch post (section 1); no media of
+its own, the 3:12 film rides inside the quote.
+
+> THE SINGULARITY IS HERE. and here's how we're celebrating it
+> 💪🤖🌀 @mvoltron @Skoorbkaz @Rizstanford @Plinz
+
+*Repo note (2026-11-21): a one-line booster tying the club to the
+day's singularity talk, tags as the cc. A self-reply with more
+context followed under it.*
+
+---
+
 ← [Posts index](README.md) · [Director's Notes](../directors-notes/README.md) · [Production Notes](../production-notes/README.md) · [Repo home](../README.md)
